@@ -8,4 +8,5 @@ An AI Predictor for Lyric Intelligibility.
 4. Run the accuracy_score.py
 
 -> Make sure to upload a song and name it correctly in the program.
+
 -> Put correct Access Token of the API in the program.
